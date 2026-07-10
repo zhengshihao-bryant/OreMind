@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "oremind"
+version = "1.0.0"
+description = "Mining intelligence RAG platform — news / policy / price three-source pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "zhengshihao-bryant"}]
+
+[tool.setuptools.packages.find]
+include = ["pipeline*", "serve*", "eval*"]
+
+[tool.pytest.ini_options]
+testpaths = ["test"]
+filterwarnings = ["ignore::DeprecationWarning"]
