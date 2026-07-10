@@ -1,0 +1,3210 @@
+{
+  "source": "price",
+  "items": [
+    {
+      "id": "d8d151d0-6ddd-4114-bedc-b6a7f63540e1",
+      "title": "Copper Price",
+      "content": "Copper price is 10200.0 USD per ton on 2026-07-09 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-09",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 10200.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-09"
+      }
+    },
+    {
+      "id": "3d46741b-583e-4750-82d1-8230fe377802",
+      "title": "Zinc Price",
+      "content": "Zinc price is 2850.0 USD per ton on 2026-07-09 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-09",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 2850.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-09"
+      }
+    },
+    {
+      "id": "b7ca91ba-763c-42e2-b404-f5a66636bcd6",
+      "title": "Nickel Price",
+      "content": "Nickel price is 18500.0 USD per ton on 2026-07-09 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-09",
+      "metadata": {
+        "commodity": "Nickel",
+        "price": 18500.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-09"
+      }
+    },
+    {
+      "id": "1eede47e-5438-462a-95a7-97b8c5629ba1",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 802.0 CNY per ton on 2026-07-09 at Mysteel",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-09",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 802.0,
+        "currency": "CNY",
+        "unit": "ton",
+        "exchange": "Mysteel",
+        "date": "2026-07-09"
+      }
+    },
+    {
+      "id": "f3ece8e0-531c-443e-9c90-81f305deb0b4",
+      "title": "Copper Price",
+      "content": "Copper price is 6.302499771118164 USD per lb on 2026-06-09 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.302499771118164,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "e6eebd12-0d5f-4c43-a166-42cb36962db3",
+      "title": "Copper Price",
+      "content": "Copper price is 6.249000072479248 USD per lb on 2026-06-10 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.249000072479248,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "50a18393-9f98-4bbc-aec5-9d63b2450042",
+      "title": "Copper Price",
+      "content": "Copper price is 6.258999824523926 USD per lb on 2026-06-11 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.258999824523926,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "3d982e17-1fdc-4402-8f81-86dc3d20c4ce",
+      "title": "Copper Price",
+      "content": "Copper price is 6.430500030517578 USD per lb on 2026-06-12 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.430500030517578,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "1421d8c3-476b-4d65-8b1f-da644d696a4d",
+      "title": "Copper Price",
+      "content": "Copper price is 6.482500076293945 USD per lb on 2026-06-15 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.482500076293945,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "75828390-6db1-4102-a655-759ed1153ad6",
+      "title": "Copper Price",
+      "content": "Copper price is 6.488999843597412 USD per lb on 2026-06-16 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.488999843597412,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "762889c0-1359-4adf-b33f-74a7df54ff12",
+      "title": "Copper Price",
+      "content": "Copper price is 6.481500148773193 USD per lb on 2026-06-17 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.481500148773193,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "d97b7140-a4e3-4811-88fb-6a5f2679ccf5",
+      "title": "Copper Price",
+      "content": "Copper price is 6.374499797821045 USD per lb on 2026-06-18 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.374499797821045,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "38a64860-f813-4860-a899-683fe038fa66",
+      "title": "Copper Price",
+      "content": "Copper price is 6.356500148773193 USD per lb on 2026-06-22 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.356500148773193,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "cb155fdf-101a-44f4-8562-e02de7fc60ef",
+      "title": "Copper Price",
+      "content": "Copper price is 6.140999794006348 USD per lb on 2026-06-23 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.140999794006348,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "cacdff2d-84c7-4aaa-9e41-f951a202b48a",
+      "title": "Copper Price",
+      "content": "Copper price is 5.942999839782715 USD per lb on 2026-06-24 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 5.942999839782715,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "6d8baece-3a04-450c-b886-86e445ddc13f",
+      "title": "Copper Price",
+      "content": "Copper price is 6.070499897003174 USD per lb on 2026-06-25 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.070499897003174,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "dd8d04f4-aea5-4ce5-8854-d45a10a1fb66",
+      "title": "Copper Price",
+      "content": "Copper price is 6.141499996185303 USD per lb on 2026-06-26 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.141499996185303,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "64f20022-7a01-4393-8d6d-e2f680117275",
+      "title": "Copper Price",
+      "content": "Copper price is 6.097499847412109 USD per lb on 2026-06-29 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.097499847412109,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "157d794f-b8e6-42cf-a15b-3ad00a4a9715",
+      "title": "Copper Price",
+      "content": "Copper price is 6.192500114440918 USD per lb on 2026-06-30 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.192500114440918,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "2103264a-06e9-48ed-b831-d9a2f4a4f26f",
+      "title": "Copper Price",
+      "content": "Copper price is 6.123499870300293 USD per lb on 2026-07-01 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.123499870300293,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "3f0d02db-2809-4343-a2ae-5d629cdab64d",
+      "title": "Copper Price",
+      "content": "Copper price is 6.114500045776367 USD per lb on 2026-07-02 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.114500045776367,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "35b08e23-4475-42ba-8a5c-4ed2108b5541",
+      "title": "Copper Price",
+      "content": "Copper price is 6.177999973297119 USD per lb on 2026-07-06 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.177999973297119,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "423ca7fc-01cf-4a90-bd55-9550838c40b3",
+      "title": "Copper Price",
+      "content": "Copper price is 6.171500205993652 USD per lb on 2026-07-07 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.171500205993652,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "8c1f19ec-8da6-41b6-8c1f-d12a923caa3b",
+      "title": "Copper Price",
+      "content": "Copper price is 6.054500102996826 USD per lb on 2026-07-08 at CME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Copper",
+        "price": 6.054500102996826,
+        "currency": "USD",
+        "unit": "lb",
+        "exchange": "CME",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "5bf9e84a-6098-41c1-afb9-6e8dfca2f6db",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3881.5 USD per ton on 2026-06-09 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3881.5,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "6d3f0620-e60f-4385-a21c-7fe57a3e5a51",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3779.75 USD per ton on 2026-06-10 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3779.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "7ad72d06-3424-4135-8e71-f4849c5328bf",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3794.5 USD per ton on 2026-06-11 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3794.5,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "35d8be3f-55f7-47ce-8ddd-5dfc8a4d1794",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3858.75 USD per ton on 2026-06-12 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3858.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "d4a869f2-a189-43a6-a63e-2adee64af98b",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3696.0 USD per ton on 2026-06-15 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3696.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "3ec9be8b-700d-42d6-94b9-1aa8963fcf29",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3691.0 USD per ton on 2026-06-16 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3691.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "1c29faa3-6fdc-456c-b7f7-d3d5f0e2ff7b",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3719.0 USD per ton on 2026-06-17 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3719.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "c5eb32be-549e-4419-afb3-679a3aeef65f",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3693.75 USD per ton on 2026-06-18 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3693.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "ed21099e-a97e-422c-999f-5804a44d42f5",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3860.75 USD per ton on 2026-06-22 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3860.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "62d45b52-f995-4633-b124-799bcee1d288",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3738.75 USD per ton on 2026-06-23 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3738.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "255eab9c-d667-4e58-9aca-69d52a323272",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3585.75 USD per ton on 2026-06-24 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3585.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "87810690-01db-45b3-b792-2dc4caa26a6e",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3649.75 USD per ton on 2026-06-25 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3649.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "29560fb3-40a5-4ce0-aae4-982c74a11d3a",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3697.5 USD per ton on 2026-06-26 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3697.5,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "323d2b30-2d61-4988-90c7-90d75a4fca0d",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3393.0 USD per ton on 2026-06-29 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3393.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "c38e5d36-7eeb-4a28-98bf-4bdb3456ec42",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3435.25 USD per ton on 2026-06-30 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3435.25,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "d23fb920-f518-4025-8c00-598084e9e8ed",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3384.0 USD per ton on 2026-07-01 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3384.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "5ae745b4-dfe2-4c34-97ca-5a18e5d6fe7b",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3415.75 USD per ton on 2026-07-02 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3415.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "89c21a33-c090-4fe1-ada5-8fb8389d7c59",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3478.25 USD per ton on 2026-07-06 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3478.25,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "581e517b-67d5-405b-929d-a7a5d971cb42",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3503.75 USD per ton on 2026-07-07 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3503.75,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "aa16e515-6ef9-4adf-9f7e-2129521a8770",
+      "title": "Aluminum Price",
+      "content": "Aluminum price is 3435.25 USD per ton on 2026-07-08 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Aluminum",
+        "price": 3435.25,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "b0ebf1dc-b742-4e97-97e9-28716d5e0209",
+      "title": "Zinc Price",
+      "content": "Zinc price is 2297.0 USD per ton on 2026-06-09 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 2297.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "e7301e15-ab51-4e3c-816e-93a4379b20d2",
+      "title": "Zinc Price",
+      "content": "Zinc price is 2297.0 USD per ton on 2026-06-10 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 2297.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "4195c54d-957a-430c-bd71-f821186bb50c",
+      "title": "Zinc Price",
+      "content": "Zinc price is 2297.0 USD per ton on 2026-06-11 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 2297.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "101d2f9f-c382-4bf8-95ad-bc7f0935a035",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3660.0 USD per ton on 2026-06-12 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3660.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "f47aa7aa-b1b3-4bea-917b-6f126b4c8256",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3660.0 USD per ton on 2026-06-15 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3660.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "daab3a74-75c6-4fef-bf45-51c748165ad6",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3660.0 USD per ton on 2026-06-16 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3660.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "e4922fe3-2923-4446-bb20-5eae2ea0b968",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3660.0 USD per ton on 2026-06-17 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3660.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "11a77dc1-81cb-40bc-baa8-906ae8ae169a",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-18 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "8061b64f-2703-4326-9fe1-ff7719441225",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-22 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "ac7a63e0-c8b0-4abb-8d22-37d7c699ad71",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-23 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "da2e1e42-de5d-4dfc-b3a4-fb0912334c6d",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-24 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "a8cd5255-b5ca-4c2f-a447-db0033ed719d",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-25 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "0028774c-4275-441a-b78b-c753d4c30142",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-26 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "9c702c4f-c711-440a-be61-bd1f57c5d222",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-29 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "efc2aa03-22a6-45e7-9ca6-82a6ffc946ab",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-06-30 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "5d55764a-e74f-4350-8106-3761df298eca",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-07-01 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "65397a83-fb43-4c0e-ba6e-44ba6b691733",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-07-02 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "a36d90b8-e01b-4dc3-81c6-45580ef9cde2",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-07-06 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "c0588155-db96-43d3-a2d4-29bdcf249276",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-07-07 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "1012ac9f-fb3d-469e-a208-cf5a70ac1a1d",
+      "title": "Zinc Price",
+      "content": "Zinc price is 3740.0 USD per ton on 2026-07-08 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Zinc",
+        "price": 3740.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "a57e364a-bb95-4bc4-96f7-ddf7bbe616c6",
+      "title": "Tin Price",
+      "content": "Tin price is 111.734375 USD per ton on 2026-06-09 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.734375,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "da6fda0a-4c72-4c2a-b517-785e5d1632c5",
+      "title": "Tin Price",
+      "content": "Tin price is 111.640625 USD per ton on 2026-06-10 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.640625,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "dc8d9a96-bb30-418a-a6f7-9ff733845d50",
+      "title": "Tin Price",
+      "content": "Tin price is 112.296875 USD per ton on 2026-06-11 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.296875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "4c9e851a-7711-4206-96b3-087182fd14e4",
+      "title": "Tin Price",
+      "content": "Tin price is 112.125 USD per ton on 2026-06-12 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.125,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "42ce7096-43b5-4d39-90e8-41f0abdd4aef",
+      "title": "Tin Price",
+      "content": "Tin price is 112.28125 USD per ton on 2026-06-15 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.28125,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "5c09fa5a-b050-443d-b1ff-68a62318388b",
+      "title": "Tin Price",
+      "content": "Tin price is 112.640625 USD per ton on 2026-06-16 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.640625,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "f9dd9794-9ef7-4c2a-8b34-33705e5cdbd5",
+      "title": "Tin Price",
+      "content": "Tin price is 112.3125 USD per ton on 2026-06-17 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.3125,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "7dddf874-6754-4d26-bfcf-4f730f59d87c",
+      "title": "Tin Price",
+      "content": "Tin price is 112.59375 USD per ton on 2026-06-18 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.59375,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "e0485679-fe80-41bb-b7db-ce71d7e09f36",
+      "title": "Tin Price",
+      "content": "Tin price is 111.671875 USD per ton on 2026-06-22 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.671875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "218d6d0b-5121-45a2-a519-01cfbc4ece52",
+      "title": "Tin Price",
+      "content": "Tin price is 111.796875 USD per ton on 2026-06-23 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.796875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "ca18b7be-ae87-4a17-af4b-1ff30c609fae",
+      "title": "Tin Price",
+      "content": "Tin price is 112.625 USD per ton on 2026-06-24 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.625,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "e80de138-ce0a-4e25-be92-392dcf599dfd",
+      "title": "Tin Price",
+      "content": "Tin price is 112.71875 USD per ton on 2026-06-25 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.71875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "ec459930-f5bb-45aa-b8e0-ee549cb723ba",
+      "title": "Tin Price",
+      "content": "Tin price is 112.890625 USD per ton on 2026-06-26 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.890625,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "e8b0eb5f-af12-4328-aa13-692df3d4df9c",
+      "title": "Tin Price",
+      "content": "Tin price is 112.859375 USD per ton on 2026-06-29 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.859375,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "64ee5601-621b-4364-97ad-beba31c045d2",
+      "title": "Tin Price",
+      "content": "Tin price is 112.46875 USD per ton on 2026-06-30 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.46875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "4c9cf0c2-5a34-42fe-aade-e36fa08b6f07",
+      "title": "Tin Price",
+      "content": "Tin price is 112.0 USD per ton on 2026-07-01 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 112.0,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "0aeda1a4-6af2-40e9-a19b-73377d3e4d7e",
+      "title": "Tin Price",
+      "content": "Tin price is 111.96875 USD per ton on 2026-07-02 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.96875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "26dcdc2d-4ea3-40bb-aa2e-4b3e10fefc10",
+      "title": "Tin Price",
+      "content": "Tin price is 111.96875 USD per ton on 2026-07-06 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.96875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "43bdbf54-6801-436f-b0a6-8882b694bdbe",
+      "title": "Tin Price",
+      "content": "Tin price is 111.53125 USD per ton on 2026-07-07 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.53125,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "adb3277b-468e-49f4-9cf4-9ed5135939b1",
+      "title": "Tin Price",
+      "content": "Tin price is 111.1875 USD per ton on 2026-07-08 at LME",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Tin",
+        "price": 111.1875,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "LME",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "e4c64989-47b6-4870-8701-c6c8bac1a87e",
+      "title": "Gold Price",
+      "content": "Gold price is 4260.0 USD per oz on 2026-06-09 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4260.0,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "990e49e1-7424-46c2-bbd2-f1e8e95f1958",
+      "title": "Gold Price",
+      "content": "Gold price is 4108.2001953125 USD per oz on 2026-06-10 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4108.2001953125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "b2a301d4-7da1-434c-bb6c-c7c24918eafd",
+      "title": "Gold Price",
+      "content": "Gold price is 4090.300048828125 USD per oz on 2026-06-11 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4090.300048828125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "0e5392ff-d1a1-4523-b6aa-166740bbd792",
+      "title": "Gold Price",
+      "content": "Gold price is 4215.0 USD per oz on 2026-06-12 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4215.0,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "332f4535-150a-4511-af4c-90628d4acb08",
+      "title": "Gold Price",
+      "content": "Gold price is 4328.0 USD per oz on 2026-06-15 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4328.0,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "5e6e078a-a31c-43f0-9000-5059834f32cb",
+      "title": "Gold Price",
+      "content": "Gold price is 4330.89990234375 USD per oz on 2026-06-16 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4330.89990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "608525da-9bd0-46ae-903f-c28bfb314d7d",
+      "title": "Gold Price",
+      "content": "Gold price is 4358.89990234375 USD per oz on 2026-06-17 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4358.89990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "a6de33c1-722c-4e26-a84e-2a5b7203556f",
+      "title": "Gold Price",
+      "content": "Gold price is 4224.10009765625 USD per oz on 2026-06-18 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4224.10009765625,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "152977ab-cf16-404f-a636-e6f6ef6a0e52",
+      "title": "Gold Price",
+      "content": "Gold price is 4181.89990234375 USD per oz on 2026-06-22 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4181.89990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "3848366a-3ade-4866-bca5-19d10f7936a5",
+      "title": "Gold Price",
+      "content": "Gold price is 4129.89990234375 USD per oz on 2026-06-23 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4129.89990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "42741258-90d2-48d5-8c7f-5d4d0308b7f6",
+      "title": "Gold Price",
+      "content": "Gold price is 3990.300048828125 USD per oz on 2026-06-24 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 3990.300048828125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "5f11195b-d073-49ea-8a00-74bcf3e5f94c",
+      "title": "Gold Price",
+      "content": "Gold price is 4030.5 USD per oz on 2026-06-25 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4030.5,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "91e1d260-5fb3-43ad-8881-c0bbd9982340",
+      "title": "Gold Price",
+      "content": "Gold price is 4078.699951171875 USD per oz on 2026-06-26 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4078.699951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "b3fb7281-1f53-417d-8848-b49b80d8b9de",
+      "title": "Gold Price",
+      "content": "Gold price is 4022.300048828125 USD per oz on 2026-06-29 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4022.300048828125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "3b5f3f0e-62f5-468b-9834-cc85a0dd2106",
+      "title": "Gold Price",
+      "content": "Gold price is 4022.89990234375 USD per oz on 2026-06-30 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4022.89990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "f8714029-4feb-47b3-b7b2-0f9f9c022529",
+      "title": "Gold Price",
+      "content": "Gold price is 4068.300048828125 USD per oz on 2026-07-01 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4068.300048828125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "7d56c4eb-ddca-449a-baf8-98802da0d3e9",
+      "title": "Gold Price",
+      "content": "Gold price is 4112.7001953125 USD per oz on 2026-07-02 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4112.7001953125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "25cb6736-72ca-4520-a570-20bd31c8aac4",
+      "title": "Gold Price",
+      "content": "Gold price is 4155.10009765625 USD per oz on 2026-07-06 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4155.10009765625,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "799527cc-edc0-41f3-bfa4-e5eef879c2d3",
+      "title": "Gold Price",
+      "content": "Gold price is 4145.2998046875 USD per oz on 2026-07-07 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4145.2998046875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "ac239770-98e4-47e4-9ed4-6d13871999c1",
+      "title": "Gold Price",
+      "content": "Gold price is 4070.89990234375 USD per oz on 2026-07-08 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Gold",
+        "price": 4070.89990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "dfc4c96a-f124-4209-bdd1-bb524a473fe2",
+      "title": "Silver Price",
+      "content": "Silver price is 65.09400177001953 USD per oz on 2026-06-09 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 65.09400177001953,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "6155053c-c31a-498b-8d87-cb1b180dbb27",
+      "title": "Silver Price",
+      "content": "Silver price is 64.5989990234375 USD per oz on 2026-06-10 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 64.5989990234375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "e28c507c-37c5-4bf6-98ee-b33f9469796c",
+      "title": "Silver Price",
+      "content": "Silver price is 63.8849983215332 USD per oz on 2026-06-11 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 63.8849983215332,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "d779cdb9-b8a1-4758-966b-c9acee59e468",
+      "title": "Silver Price",
+      "content": "Silver price is 67.85900115966797 USD per oz on 2026-06-12 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 67.85900115966797,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "d8c6b22b-f864-4cf6-99c6-713027836f40",
+      "title": "Silver Price",
+      "content": "Silver price is 70.06600189208984 USD per oz on 2026-06-15 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 70.06600189208984,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "a3de3a87-cac8-421b-bcb2-6f20f60b8867",
+      "title": "Silver Price",
+      "content": "Silver price is 69.89900207519531 USD per oz on 2026-06-16 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 69.89900207519531,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "490a4210-5c17-40b0-a79f-7f41fda6f618",
+      "title": "Silver Price",
+      "content": "Silver price is 70.69599914550781 USD per oz on 2026-06-17 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 70.69599914550781,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "0d8a24c0-6a68-486f-97d8-bfbbeab99838",
+      "title": "Silver Price",
+      "content": "Silver price is 66.25499725341797 USD per oz on 2026-06-18 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 66.25499725341797,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "1068305d-43e9-460e-8c2f-44062a674932",
+      "title": "Silver Price",
+      "content": "Silver price is 65.5270004272461 USD per oz on 2026-06-22 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 65.5270004272461,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "0881a0c6-81ac-4d16-98f0-ac7445bda5e8",
+      "title": "Silver Price",
+      "content": "Silver price is 62.02000045776367 USD per oz on 2026-06-23 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 62.02000045776367,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "7d09d305-b90c-46bf-8468-7d17e9dc8961",
+      "title": "Silver Price",
+      "content": "Silver price is 58.051998138427734 USD per oz on 2026-06-24 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 58.051998138427734,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "ab9429d9-d47d-4df0-9066-4687f7833cb9",
+      "title": "Silver Price",
+      "content": "Silver price is 58.347999572753906 USD per oz on 2026-06-25 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 58.347999572753906,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "c50c98ef-8262-4f9e-9bd8-cb11ca97e899",
+      "title": "Silver Price",
+      "content": "Silver price is 59.21699905395508 USD per oz on 2026-06-26 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 59.21699905395508,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "2d90d094-12a9-4c61-b83b-d3a83be1f18e",
+      "title": "Silver Price",
+      "content": "Silver price is 58.17499923706055 USD per oz on 2026-06-29 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 58.17499923706055,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "ff76f2d6-fca4-47ba-85de-4ade37d64531",
+      "title": "Silver Price",
+      "content": "Silver price is 59.47700119018555 USD per oz on 2026-06-30 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 59.47700119018555,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "548cff20-db77-458c-9af3-8ac5643567a0",
+      "title": "Silver Price",
+      "content": "Silver price is 60.084999084472656 USD per oz on 2026-07-01 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 60.084999084472656,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "6fcf8568-08ca-4d0e-a990-2711c970137b",
+      "title": "Silver Price",
+      "content": "Silver price is 60.643001556396484 USD per oz on 2026-07-02 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 60.643001556396484,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "363190f6-cf1a-4d0d-a01c-cdcddaa2a666",
+      "title": "Silver Price",
+      "content": "Silver price is 61.91999816894531 USD per oz on 2026-07-06 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 61.91999816894531,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "0c4f9389-0912-4a25-bff9-c98f622b2569",
+      "title": "Silver Price",
+      "content": "Silver price is 60.930999755859375 USD per oz on 2026-07-07 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 60.930999755859375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "0114b9c1-854d-4bed-9b06-ee0aaceb5a2e",
+      "title": "Silver Price",
+      "content": "Silver price is 58.16400146484375 USD per oz on 2026-07-08 at COMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Silver",
+        "price": 58.16400146484375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "COMEX",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "c60a6ca2-1f1d-46e2-b1d5-0e33a75c2e2e",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1708.5999755859375 USD per oz on 2026-06-09 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1708.5999755859375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "672fe235-893e-46a2-a72e-3dadf593dce5",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1688.0 USD per oz on 2026-06-10 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1688.0,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "63f9cb5f-031b-47f2-a86c-eee2c0641092",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1662.5999755859375 USD per oz on 2026-06-11 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1662.5999755859375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "66bf814b-ec25-4c18-a42c-c54a625c7836",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1709.199951171875 USD per oz on 2026-06-12 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1709.199951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "b20bd882-adab-4851-b2ee-c1beb8a2efb4",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1770.0 USD per oz on 2026-06-15 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1770.0,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "d177f5cb-f250-440f-b76e-4ed919b5d3fa",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1812.0999755859375 USD per oz on 2026-06-16 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1812.0999755859375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "fc80aeb7-bd84-4bfb-bd09-89e048324190",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1790.699951171875 USD per oz on 2026-06-17 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1790.699951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "ffa09208-208a-4b06-a910-3b7a2d31cf87",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1705.199951171875 USD per oz on 2026-06-18 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1705.199951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "db6e7451-e60c-4715-91e9-9872457e3ca9",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1670.300048828125 USD per oz on 2026-06-22 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1670.300048828125,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "40297b5d-c2dd-4ce0-959a-c271180bb256",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1660.9000244140625 USD per oz on 2026-06-23 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1660.9000244140625,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "4557d04b-4433-42c0-8621-6c4ed806859f",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1580.5999755859375 USD per oz on 2026-06-24 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1580.5999755859375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "1525176d-c0d9-4796-90e1-e1a0d709a35a",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1601.699951171875 USD per oz on 2026-06-25 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1601.699951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "e29a87f1-1d6f-4673-9a88-0216f9ae35c3",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1630.9000244140625 USD per oz on 2026-06-26 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1630.9000244140625,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "ed058288-90ca-4f06-9d35-390deee8073e",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1574.5 USD per oz on 2026-06-29 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1574.5,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "c8bd9996-7b48-449a-a2a4-b728ad83b7e3",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1550.199951171875 USD per oz on 2026-06-30 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1550.199951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "60da04d2-5ba4-48cf-8312-8424b967cd38",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1588.9000244140625 USD per oz on 2026-07-01 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1588.9000244140625,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "7554a07e-7fd5-42b9-b00e-d133a6e9e13f",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1616.5999755859375 USD per oz on 2026-07-02 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1616.5999755859375,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "77b2c32f-6d7f-45d4-a568-17e53171cf9a",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1631.699951171875 USD per oz on 2026-07-06 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1631.699951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "eacc1f41-5080-4b47-aabc-c89e555aa42d",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1651.199951171875 USD per oz on 2026-07-07 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1651.199951171875,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "79500c17-5463-4bb7-a77e-6e5e2f23e5e8",
+      "title": "Platinum Price",
+      "content": "Platinum price is 1576.4000244140625 USD per oz on 2026-07-08 at NYMEX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Platinum",
+        "price": 1576.4000244140625,
+        "currency": "USD",
+        "unit": "oz",
+        "exchange": "NYMEX",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "b5d037c5-965b-4451-89d4-4f67222b9f27",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.37000274658203 USD per ton on 2026-06-09 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.37000274658203,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "6796bd85-89c3-4334-ab7b-ad70f2dcbfb8",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.69999694824219 USD per ton on 2026-06-10 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.69999694824219,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "637dd3bc-f0e7-4d18-acd6-64948b360196",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.5999984741211 USD per ton on 2026-06-11 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.5999984741211,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "cfa57b18-b052-4675-af50-2e332432ec84",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.62000274658203 USD per ton on 2026-06-12 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.62000274658203,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "67c284e1-e1dd-4510-8721-b30daa5b8dfd",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.94000244140625 USD per ton on 2026-06-15 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.94000244140625,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "6203573c-3328-45d8-a55c-b3c50159a7ea",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.66000366210938 USD per ton on 2026-06-16 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.66000366210938,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "b9e1d7f6-f6d1-4801-9426-25b0e2eb0e51",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.27999877929688 USD per ton on 2026-06-17 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.27999877929688,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "b53e8ee8-e4a1-4722-b29c-e011e3a4563f",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 101.13999938964844 USD per ton on 2026-06-18 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 101.13999938964844,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "d867e60e-d283-4ba8-8123-7271598feb49",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.77999877929688 USD per ton on 2026-06-22 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.77999877929688,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "db68f4d6-57d9-4671-9480-60caa5e36f26",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.52999877929688 USD per ton on 2026-06-23 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.52999877929688,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "b6943f89-99a2-41dc-ad2c-41759f33a47a",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.5199966430664 USD per ton on 2026-06-24 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.5199966430664,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "7b9f67c1-7abe-4999-b5cd-d08912bd7fd4",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.37000274658203 USD per ton on 2026-06-25 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.37000274658203,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "30149ed3-dc0c-4adc-bd96-15905714d5b7",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.33000183105469 USD per ton on 2026-06-26 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.33000183105469,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "3509b487-af30-4dd7-94e1-4fb9be827841",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.26000213623047 USD per ton on 2026-06-29 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.26000213623047,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "20f31818-b0ce-45ad-9707-89a0b92cfd33",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 100.19999694824219 USD per ton on 2026-06-30 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 100.19999694824219,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "ff0cf665-ab5a-4a6b-b382-6ba45092697b",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 98.36000061035156 USD per ton on 2026-07-01 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 98.36000061035156,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "bb9d6f97-4d60-446a-bfd0-78283d7b2e67",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 98.25 USD per ton on 2026-07-02 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 98.25,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "bcaa15f7-df84-4f42-ad45-160f2ee4aea2",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 98.30000305175781 USD per ton on 2026-07-06 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 98.30000305175781,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "43616ce1-1bb2-473b-91ad-21949c270117",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 98.0199966430664 USD per ton on 2026-07-07 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 98.0199966430664,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "90351224-93c5-42e7-813f-b3a2da326bbe",
+      "title": "Iron Ore Price",
+      "content": "Iron Ore price is 98.86000061035156 USD per ton on 2026-07-08 at SGX",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Iron Ore",
+        "price": 98.86000061035156,
+        "currency": "USD",
+        "unit": "ton",
+        "exchange": "SGX",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "5b1b7830-cf0b-4a06-b836-05f97b514ba2",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 78.27352905273438 USD per share on 2026-06-09 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 78.27352905273438,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "3be7d6cb-6048-4ac9-b9f1-7c17c39ed3e9",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 76.21238708496094 USD per share on 2026-06-10 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 76.21238708496094,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "e5147315-c667-48ec-bc1d-856fb15bc71c",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 80.3944091796875 USD per share on 2026-06-11 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 80.3944091796875,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "8420af3b-b221-4d60-8c39-bdd4653a6641",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 82.0174331665039 USD per share on 2026-06-12 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 82.0174331665039,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "d83fcbb3-f445-4058-bf58-9ebaa86fa257",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 83.7201156616211 USD per share on 2026-06-15 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 83.7201156616211,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "c4d35bd9-61b0-4fb9-bdec-2a5ce05d4876",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 83.2421646118164 USD per share on 2026-06-16 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 83.2421646118164,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "df3a0b81-1a38-4bc5-8748-12cafe89b21a",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 82.71443939208984 USD per share on 2026-06-17 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 82.71443939208984,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "6c5d3940-7dab-487f-a02a-db6a3bb7b835",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 81.79837799072266 USD per share on 2026-06-18 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 81.79837799072266,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "1532ba3f-872a-4b0a-b635-4c2b8f719a33",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 82.2165756225586 USD per share on 2026-06-22 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 82.2165756225586,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "88e10539-087b-4f44-9958-681e1f680cfb",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 78.09429931640625 USD per share on 2026-06-23 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 78.09429931640625,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "200c58c9-7444-43ee-96ad-88513f39dd4b",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 78.57225036621094 USD per share on 2026-06-24 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 78.57225036621094,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "0035436b-9ab1-4582-a50b-f31806ca35bb",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 78.11421203613281 USD per share on 2026-06-25 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 78.11421203613281,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "89b66583-42ef-4039-811f-6b61dd667553",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 75.60499572753906 USD per share on 2026-06-26 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 75.60499572753906,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "c3590aa8-3f83-4342-8fa2-8761526d33b6",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 77.30999755859375 USD per share on 2026-06-29 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 77.30999755859375,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "1d5a5e1d-f10d-4b58-ba96-c1ddc2cd3e7d",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 78.27999877929688 USD per share on 2026-06-30 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 78.27999877929688,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "b99fc756-b8a4-40e6-bf16-93af509487e2",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 77.97000122070312 USD per share on 2026-07-01 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 77.97000122070312,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-07-01"
+      }
+    },
+    {
+      "id": "e1e6c725-a301-42e5-a7f1-5de7d63e6b61",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 76.52999877929688 USD per share on 2026-07-02 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-02",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 76.52999877929688,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "id": "536d639e-60e4-428d-9f9b-e206577491df",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 76.16999816894531 USD per share on 2026-07-06 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-06",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 76.16999816894531,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-07-06"
+      }
+    },
+    {
+      "id": "c35fe136-4b71-44c1-a5d8-89ad64644452",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 73.80000305175781 USD per share on 2026-07-07 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-07",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 73.80000305175781,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-07-07"
+      }
+    },
+    {
+      "id": "df03d1fe-a971-4400-87bf-412e54779192",
+      "title": "Lithium ETF Price",
+      "content": "Lithium ETF price is 72.12000274658203 USD per share on 2026-07-08 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-08",
+      "metadata": {
+        "commodity": "Lithium ETF",
+        "price": 72.12000274658203,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-07-08"
+      }
+    },
+    {
+      "id": "2ab5f0cc-5265-4160-a497-9658d4b32077",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 79.86858367919922 USD per share on 2026-06-09 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-09",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 79.86858367919922,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-09"
+      }
+    },
+    {
+      "id": "7354fb23-22e5-40f0-938d-ac51ef55eea9",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 77.18769073486328 USD per share on 2026-06-10 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-10",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 77.18769073486328,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-10"
+      }
+    },
+    {
+      "id": "bafe5e8a-ce14-45c2-a235-c9f7e907d3e2",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 82.87836456298828 USD per share on 2026-06-11 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-11",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 82.87836456298828,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-11"
+      }
+    },
+    {
+      "id": "7f423d83-13fd-4c65-8493-050e39623932",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 85.67884063720703 USD per share on 2026-06-12 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-12",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 85.67884063720703,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "id": "b007b7df-95d4-4f8d-83a2-c47ebb220588",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 89.5058364868164 USD per share on 2026-06-15 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-15",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 89.5058364868164,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-15"
+      }
+    },
+    {
+      "id": "2291503a-35b8-4ba1-8d4d-f391efd9b597",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 89.48590850830078 USD per share on 2026-06-16 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-16",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 89.48590850830078,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-16"
+      }
+    },
+    {
+      "id": "b44236a1-dc78-4210-be9b-dcd6153191eb",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 86.46617126464844 USD per share on 2026-06-17 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-17",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 86.46617126464844,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-17"
+      }
+    },
+    {
+      "id": "f8d866aa-dfc4-40fe-a0e0-8f75425ca3ce",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 85.19050598144531 USD per share on 2026-06-18 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-18",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 85.19050598144531,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-18"
+      }
+    },
+    {
+      "id": "cc210e49-1a17-44a6-bfc2-17e5a0be4c3e",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 84.60250091552734 USD per share on 2026-06-22 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-22",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 84.60250091552734,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-22"
+      }
+    },
+    {
+      "id": "018e149b-a48d-46f2-bc9a-9fb2461590e9",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 79.21082305908203 USD per share on 2026-06-23 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-23",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 79.21082305908203,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-23"
+      }
+    },
+    {
+      "id": "e2fd968d-380e-441e-819d-41243bf4182e",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 75.44361877441406 USD per share on 2026-06-24 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-24",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 75.44361877441406,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-24"
+      }
+    },
+    {
+      "id": "3ac9e640-b8a2-4f3f-a574-2f8a7058917c",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 76.22098541259766 USD per share on 2026-06-25 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-25",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 76.22098541259766,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-25"
+      }
+    },
+    {
+      "id": "3383d8e8-0679-4a84-b02b-ff9806003511",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 75.9219970703125 USD per share on 2026-06-26 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-26",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 75.9219970703125,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "id": "875fca8d-11bf-46c2-b99a-e404c2074767",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 75.73999786376953 USD per share on 2026-06-29 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-29",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 75.73999786376953,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-29"
+      }
+    },
+    {
+      "id": "80fbf355-47fb-4717-b84e-26f8b6bf839c",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 76.97000122070312 USD per share on 2026-06-30 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-06-30",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 76.97000122070312,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-06-30"
+      }
+    },
+    {
+      "id": "c3d40b7f-6c3a-4438-b12d-8d8b1d38b8d1",
+      "title": "Copper Miners Price",
+      "content": "Copper Miners price is 75.29000091552734 USD per share on 2026-07-01 at NYSE",
+      "source": "price",
+      "category": "price",
+      "publish_time": "2026-07-01",
+      "metadata": {
+        "commodity": "Copper Miners",
+        "price": 75.29000091552734,
+        "currency": "USD",
+        "unit": "share",
+        "exchange": "NYSE",
+        "date": "2026-07-01"
+      }
+    }
+  ],
+  "collected_at": "2026-07-09T16:02:44.472604+00:00",
+  "succeeded": true,
+  "error": null,
+  "elapsed": 159.113,
+  "metadata": {}
+}

@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "lme copper price", "answer_terms": ["copper", "lme", "10200", "price"], "intent": "price", "relevant_commodities": ["Copper"]},
+  {"id": 2, "question": "近7天铁矿石价格走势", "answer_terms": ["iron ore", "铁矿石", "price"], "intent": "price", "relevant_commodities": ["Iron Ore"]},
+  {"id": 3, "question": "what is the current gold price", "answer_terms": ["gold", "price"], "intent": "price", "relevant_commodities": ["Gold"]},
+  {"id": 4, "question": "silver price trend this month", "answer_terms": ["silver", "price"], "intent": "price", "relevant_commodities": ["Silver"]},
+  {"id": 5, "question": "zinc price lme", "answer_terms": ["zinc", "lme"], "intent": "price", "relevant_commodities": ["Zinc"]},
+  {"id": 6, "question": "aluminum price", "answer_terms": ["aluminum", "aluminium"], "intent": "price", "relevant_commodities": ["Aluminum"]},
+  {"id": 7, "question": "platinum price today", "answer_terms": ["platinum", "price"], "intent": "price", "relevant_commodities": ["Platinum"]},
+  {"id": 8, "question": "稀土政策最新动态", "answer_terms": ["稀土", "政策", "rare earth"], "intent": "policy", "relevant_sources": ["regcc"]},
+  {"id": 9, "question": "中国稀土集团供应链战略", "answer_terms": ["稀土", "供应链", "战略"], "intent": "policy", "relevant_sources": ["regcc"]},
+  {"id": 10, "question": "critical minerals supply chain strategy", "answer_terms": ["critical mineral", "supply chain", "strategy"], "intent": "policy", "relevant_sources": ["mining.com"]},
+  {"id": 11, "question": "lithium mining news", "answer_terms": ["lithium", "mining"], "intent": "news", "relevant_sources": ["junior_mining_network"]},
+  {"id": 12, "question": "gold mining company acquisition", "answer_terms": ["gold", "mining", "acquisition"], "intent": "news", "relevant_sources": ["mining_ir"]},
+  {"id": 13, "question": "copper exploration projects", "answer_terms": ["copper", "exploration"], "intent": "news", "relevant_sources": ["junior_mining_network"]},
+  {"id": 14, "question": "澳洲锂矿项目进展", "answer_terms": ["lithium", "australia", "project"], "intent": "news", "relevant_sources": ["mining_journal"]},
+  {"id": 15, "question": "nickel price forecast", "answer_terms": ["nickel", "price"], "intent": "price", "relevant_commodities": ["Nickel"]},
+  {"id": 16, "question": "lithium carbonate price shfe", "answer_terms": ["lithium", "price", "碳酸锂"], "intent": "price", "relevant_commodities": ["Lithium Carbonate"]},
+  {"id": 17, "question": "稀土出口管制政策", "answer_terms": ["稀土", "出口", "管制"], "intent": "policy", "relevant_sources": ["regcc"]},
+  {"id": 18, "question": "iron ore mining investment", "answer_terms": ["iron ore", "mining", "investment"], "intent": "news", "relevant_sources": ["junior_mining_network"]},
+  {"id": 19, "question": "最近有哪些稀土新闻", "answer_terms": ["稀土", "rare earth"], "intent": "news", "relevant_sources": ["mining.com"]},
+  {"id": 20, "question": "energy transition critical minerals policy", "answer_terms": ["critical mineral", "energy transition", "policy"], "intent": "policy", "relevant_sources": ["euromines"]}
+]
