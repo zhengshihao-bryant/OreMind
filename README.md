@@ -100,18 +100,51 @@
 
 ## 快速开始
 
-```bash
-# ── 建库 ──
-python -m pipeline.pipeline                        # 全量: 采集→入库
-python -m pipeline.pipeline --skip-embed            # 仅采集→切块(调试)
+## 启动
 
-# ── 查询 ──
-python -m serve.main                                # 启动 API :8000
+### 后端 API
+
+```bash
+set DEEPSEEK_API_KEY=your-api-key-here
+python -m serve.main
+# → http://localhost:8000
+```
+
+### 前端（前后端分离）
+
+```bash
+cd frontend
+npm install
+npm run dev
+# → http://localhost:3000
+```
+
+前端通过 Vite 代理 `/api` → `localhost:8000`，开发时无需 CORS 配置。
+
+### 测试 API
+
+```bash
 curl -X POST http://localhost:8000/query \
   -H 'Content-Type: application/json' \
   -d '{"question":"lme copper price"}'
 
-# ── 评测 ──
+curl -X POST http://localhost:8000/search \
+  -H 'Content-Type: application/json' \
+  -d '{"question":"lme copper","top_k":2}'
+
+curl http://localhost:8000/metrics
+```
+
+### 建库（重新采集 + 索引）
+
+```bash
+python -m pipeline.pipeline                     # 全量
+python -m pipeline.pipeline --skip-embed         # 仅采集→切块
+```
+
+### 评测
+
+```bash
 python -m eval.run --skip-rag
 ```
 
